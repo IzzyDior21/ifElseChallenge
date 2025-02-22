@@ -1,1 +1,1 @@
-# challengeJsIfElseStatements
+# ifElseChallenge
